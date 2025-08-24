@@ -4,7 +4,8 @@
 
 📌 Penjelasan Singkat
 
-    Ini adalah proyek pembuatan website portfolio pribadi yang menampilkan informasi diri, proyek/portofolio, serta kontak sosial media. Website ini dibuat dengan desain sederhana namun responsif agar nyaman dilihat di berbagai ukuran layar.
+    Ini adalah proyek pembuatan website portfolio pribadi yang menampilkan informasi diri, proyek/portofolio, serta kontak sosial media. 
+    Website ini dibuat dengan desain sederhana namun responsif agar nyaman dilihat di berbagai ukuran layar.
 
 🛠️ Teknologi yang Digunakan
 

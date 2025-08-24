@@ -13,6 +13,11 @@
   border: 3px solid black;
 }
 
+.profile-pic:hover {
+  transform: scale(1.1);
+  transition: 0.3s;
+}
+
 body {
   background-image: url(Assets/wp4982385.jpg);
   background-size: cover;
